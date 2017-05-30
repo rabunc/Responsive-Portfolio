@@ -280,21 +280,25 @@ button:hover {
 
     #connect-box {
         width: 100%;
+        max-width: none;
         float: none;
         }
 
     #about-me {
         width: 100%;
+        max-width: none;
         float: none;
         }
 
     #portfolio {
         width: 100%;
+        max-width: none;
         float: none;
     }
 
     #form-box {
         width: 100%;
+        max-width: none;
         float: none;
     }
 }
