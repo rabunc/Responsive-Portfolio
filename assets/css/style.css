@@ -292,16 +292,60 @@ button:hover {
         width: 100%;
         float: none;
     }
+
+    #form-box {
+        width: 100%;
+        float: none;
+    }
 }
 
 @media screen and (max-width: 768px) {
     body {
         background-color: lightblue;
     }
+
+        #connect-box {
+        width: 100%;
+        float: none;
+        }
+
+    #about-me {
+        width: 100%;
+        float: none;
+        }
+
+    #portfolio {
+        width: 100%;
+        float: none;
+    }
+    
+    #form-box {
+        width: 100%;
+        float: none;
+    }
 }
 
 @media screen and (max-width: 640px) {
     body {
         background-color: lightcoral;
+    }
+    #connect-box {
+        width: 100%;
+        float: none;
+        }
+
+    #about-me {
+        width: 100%;
+        float: none;
+        }
+
+    #portfolio {
+        width: 100%;
+        float: none;
+    }
+    
+    #form-box {
+        width: 100%;
+        float: none;
     }
 }
