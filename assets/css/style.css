@@ -70,7 +70,7 @@ button {
 }
 
 #form-box {
-    width: 600px;
+    max-width: 600px;
     height: 500px;
     padding: 30px;
     background-color: white;
@@ -118,7 +118,7 @@ section {
 }
 
 #about-me {
-    width: 650px;
+    max-width: 650px;
     height: 400px;
     background-color: white;
     float: left;
@@ -127,7 +127,7 @@ section {
 }
 
 #portfolio {
-    width: 650px;
+    max-width: 650px;
     height: 1000px;
     background-color: white;
     float: left;
@@ -281,12 +281,12 @@ button:hover {
 
 @media screen and (max-width: 768px) {
     body {
-        background-color: lightgreen;
+        background-color: lightblue;
     }
 }
 
 @media screen and (max-width: 640px) {
     body {
-        background-color: lightgreen;
+        background-color: lightcoral;
     }
 }
