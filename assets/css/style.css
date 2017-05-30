@@ -277,6 +277,21 @@ button:hover {
     body {
         background-color: lightgreen;
     }
+
+    #connect-box {
+        width: 100%;
+        float: none;
+        }
+
+    #about-me {
+        width: 100%;
+        float: none;
+        }
+
+    #portfolio {
+        width: 100%;
+        float: none;
+    }
 }
 
 @media screen and (max-width: 768px) {
