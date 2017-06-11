@@ -32,11 +32,9 @@ main {
 }
 
 #menu {
-    float: left;
+    float: right;
     font-size: 20px;
     padding: 25px;
-    margin-right: 50px;
-    margin-left: 500px;
     color: #4aaaa5;
 }
 
